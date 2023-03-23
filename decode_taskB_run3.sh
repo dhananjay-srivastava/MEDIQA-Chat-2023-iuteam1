@@ -1,1 +1,1 @@
-python3 taskb_run3.py $1
+./iuteam1_taskB_venv/bin/python3 taskb_run3.py $1
