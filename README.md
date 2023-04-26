@@ -1,6 +1,8 @@
 # MEDIQA-Chat-2023-iuteam1
 
-Files created as per expected usage
+models available on hugging face at: https://huggingface.co/dhananjay2912
+
+Procedure to recreate results for MediQA Chat Shared Task B for Clinical Conversation Sumamarization
 
 For Run 1
 ./install.sh
@@ -16,5 +18,3 @@ For Run 3
 ./install.sh
 ./activate.sh
 decode_taskB_run3.sh taskB_testset4participants_inputConversations.csv
-
-Although I have checked, If you face any issues please send me an email at dsrivast@iu.edu I will fix it immidiately
