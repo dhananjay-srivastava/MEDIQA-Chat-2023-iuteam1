@@ -15,6 +15,8 @@ https://api.wandb.ai/links/dsteam1/juww1i71
 
 Procedure to recreate results for MediQA Chat Shared Task B for Clinical Conversation Sumamarization
 
+Place the test set file from the ACI Demo Dataset in the folder
+
 For Run 1
 ./install.sh
 ./activate.sh
