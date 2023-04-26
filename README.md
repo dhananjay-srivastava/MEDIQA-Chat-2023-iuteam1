@@ -31,3 +31,7 @@ For Run 3
 ./install.sh
 ./activate.sh
 decode_taskB_run3.sh taskB_testset4participants_inputConversations.csv
+
+
+Training Script:
+TBD
